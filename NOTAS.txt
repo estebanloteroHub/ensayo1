@@ -1,0 +1,3 @@
+-Los productos SaaS(software as a service), son operados por el proveedor en la nube, quien hace copia de seguridad de los datos, configuraciones y actualizaciones.
+
+-Predictive Model Markup Language PMML  es un formato de exportación de modelos deployment que pueden ser leídos por varios softwares.
